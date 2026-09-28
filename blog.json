@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Getting Started with Kotlin",
+      "thumbnail": "",
+      "content": "",
+      "contentUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "Introduction to Jetpack Compose",
+      "thumbnail": "",
+      "content": "",
+      "contentUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "Understanding MVVM Architecture",
+      "thumbnail": "",
+      "content": "",
+      "contentUrl": ""
+    }
+  ]
+}
